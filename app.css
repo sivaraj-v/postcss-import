@@ -1,0 +1,7 @@
+/* app.css */
+
+@import "./colors.css";
+
+.app {
+  border: 1px solid var(--errorRed);
+}
